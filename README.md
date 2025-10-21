@@ -25,25 +25,39 @@ A simple yet powerful User Management REST API built using Spring Boot, demonstr
 
 🧩 Tech Stack
 Component:	Technology
+
 Language:	Java 17+
+
 Framework:	Spring Boot
+
 Build Tool:	Maven
+
 Database:	MySQL
+
 ORM :	Spring Data JPA
+
 Documentation :	Swagger (springdoc-openapi)
+
 Validation :	Jakarta Bean Validation (JSR-380)
+
 IDE	Eclipse / IntelliJ IDEA
 
 💬 How CRUD Operations Work
 POST: Adds new user data to DB.
+
 GET: Retrieves all or one user with pagination and sorting.
+
 PUT: Updates entire user details.
+
 PATCH: Updates partial fields (like just name or email).
+
 DELETE: Deletes user by ID.
 
 
 🌟 Future Enhancements
 Implement JWT Authentication
+
 Add Role-based Access Control (RBAC)
+
 Deploy to Render / Railway / AWS
 
