@@ -10,11 +10,17 @@ A simple yet powerful User Management REST API built using Spring Boot, demonstr
 
 🚀 Features
  >> Create, Read, Update, and Delete (CRUD) users
+
  >> Validation using javax.validation annotations
+
  >> DTO & Entity separation for clean data handling
+
  >> Pagination and Sorting for fetching user lists efficiently
+
  >> Swagger UI for API documentation and testing
+
  >> Consistent ResponseEntity structure with status and message
+
  >> Logging for better debugging and API monitoring
 
 🧩 Tech Stack
