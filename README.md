@@ -8,7 +8,7 @@ User Management REST API (Spring Boot)
 
 A simple yet powerful User Management REST API built using Spring Boot, demonstrating CRUD operations, validations, global exception handling, sorting, filtering, and Swagger API documentation.
 
-🚀 Features
+### 🚀 Features
  >> Create, Read, Update, and Delete (CRUD) users
 
  >> Validation using javax.validation annotations
@@ -23,7 +23,7 @@ A simple yet powerful User Management REST API built using Spring Boot, demonstr
 
  >> Logging for better debugging and API monitoring
 
-🧩 Tech Stack
+### 🧩 Tech Stack
 Component:	Technology
 
 Language:	Java 17+
@@ -42,7 +42,7 @@ Validation :	Jakarta Bean Validation (JSR-380)
 
 IDE	Eclipse / IntelliJ IDEA
 
-💬 How CRUD Operations Work
+### 💬 How CRUD Operations Work
 POST: Adds new user data to DB.
 
 GET: Retrieves all or one user with pagination and sorting.
@@ -54,7 +54,7 @@ PATCH: Updates partial fields (like just name or email).
 DELETE: Deletes user by ID.
 
 
-🌟 Future Enhancements
+### 🌟 Future Enhancements
 Implement JWT Authentication
 
 Add Role-based Access Control (RBAC)
